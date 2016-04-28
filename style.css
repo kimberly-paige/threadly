@@ -15,6 +15,7 @@ h1 {
 }
 
 form input {
+   height: 90px;
    background: #f0f0f0;
    border: none;
    border-left: 2px solid #fff;
